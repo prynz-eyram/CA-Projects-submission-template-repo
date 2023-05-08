@@ -4,7 +4,6 @@ Python analyzes and visualizes industry data on Indian startups to identify tren
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-<<<<<<< HEAD
 | LP2 | Forecasting Retail Sales using Time Series Models |  [Article to project](/https://medium.com/@padzanku/how-to-forecast-store-sales-using-time-series-analysis-a-regression-project-with-corporation-29c34a71c24f) | [Best app of the world](/) |
 
 ## Project Description
